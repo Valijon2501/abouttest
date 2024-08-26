@@ -31,28 +31,28 @@ const Banner = () => {
         >
           <SwiperSlide>
             <img
-              src="https://btest.gazon-tashkent.uz/media/banner/image_2023-11-02_15-26-32.png"
+              src="https://cdn.dribbble.com/users/579758/screenshots/5546963/18-11-25-s.jpg?resize=400x300&vertical=center"
               alt=""
               loading="lazy"
             />
           </SwiperSlide>
           <SwiperSlide>
             <img
-              src="https://btest.gazon-tashkent.uz/media/banner/photo_2023-10-04_13-37-39.jpg"
+              src="https://cdn3.vectorstock.com/i/1000x1000/32/32/online-test-word-concepts-banner-vector-28883232.jpg"
               alt=""
               loading="lazy"
             />
           </SwiperSlide>
           <SwiperSlide>
             <img
-              src="https://btest.gazon-tashkent.uz/media/banner/photo_2023-11-03_20-45-54.jpg"
+              src="https://static.vecteezy.com/system/resources/previews/022/179/943/original/blood-test-modern-concept-design-flat-banner-vector.jpg"
               alt=""
               loading="lazy"
             />
           </SwiperSlide>
           <SwiperSlide>
             <img
-              src="https://btest.gazon-tashkent.uz/media/banner/LOADING_v1_03.jpg"
+              src="https://www.shutterstock.com/image-vector/online-test-banner-start-testing-260nw-2363347361.jpg"
               alt=""
               loading="lazy"
             />

@@ -10,10 +10,7 @@ const Test = () => {
           <div className="competitions">
             <div className="competitions_kjn">
               <h2 class="text-center_mb-0">Olimpiadalar</h2>
-              <Link
-                class="d-flex_align-items-center mb-0"
-                to="/exordial"
-              >
+              <Link class="d-flex_align-items-center mb-0" to="/exordial">
                 <span className="span"> Barcha olimpiadalar</span>{" "}
                 <svg
                   stroke="currentColor"
@@ -34,7 +31,7 @@ const Test = () => {
                   <div class="card">
                     <div class="comp-image">
                       <img
-                        src="https://btest.gazon-tashkent.uz/media/competition/delir.jpg"
+                        src="https://cdn.educba.com/academy/wp-content/uploads/2020/06/Test-Management.jpg"
                         alt=""
                         class="w-100 h-100"
                       />
@@ -95,7 +92,7 @@ const Test = () => {
                   <div class="card">
                     <div class="comp-image">
                       <img
-                        src="https://btest.gazon-tashkent.uz/media/competition/art-design-4.jpg"
+                        src="https://cdn.educba.com/academy/wp-content/uploads/2019/07/Test-Management-Tools-1.jpg"
                         alt=""
                         class="w-100 h-100"
                         // style="background-repeat: no-repeat; background-position: center center; background-size: cover;"
@@ -157,7 +154,7 @@ const Test = () => {
                   <div class="card">
                     <div class="comp-image">
                       <img
-                        src="https://btest.gazon-tashkent.uz/media/competition/art-design-5.jpg"
+                        src="https://blog.vault-erp.com/image.axd?picture=/Test%20case%20management%20tool/20210311_Vault_TCM-Blog_01.jpg"
                         alt=""
                         class="w-100 h-100"
                         // style="background-repeat: no-repeat; background-position: center center; background-size: cover;"
@@ -193,7 +190,7 @@ const Test = () => {
                         </div>
                       </div>
                       <div class="d-flex_justify ">
-                        <Link class="btn"to="/exordial">
+                        <Link class="btn" to="/exordial">
                           <button className="button ">
                             Testga yozilish
                             <svg
@@ -219,7 +216,7 @@ const Test = () => {
                   <div class="card">
                     <div class="comp-image">
                       <img
-                        src="	https://btest.gazon-tashkent.uz/media/competition/art-design-1.jpg"
+                        src="	https://static.vecteezy.com/system/resources/previews/022/494/723/original/kid-study-and-think-about-test-or-homework-in-class-boy-on-school-exam-pupil-confused-how-to-do-survay-on-blank-illustration-about-child-education-vector.jpg"
                         alt=""
                         class="w-100 h-100"
                         // style="background-repeat: no-repeat; background-position: center center; background-size: cover;"
